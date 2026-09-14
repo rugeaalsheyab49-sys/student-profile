@@ -4,7 +4,7 @@ major = "Electronic Business Technology"
 
 university = "Al-Balqa Applied University"
 
-graduation_year= 2026
+graduation_year= "2026"
 
 print("Student Profile")
 
